@@ -1,0 +1,11 @@
+#ifndef zadanie43
+#define zadanie43
+
+void pauza(void);
+char menu(void);
+void dodajOpcje(char napis[], int dlugosc);
+void wypisanie(void);
+void przyklad(void);
+void zadanie(void);
+
+#endif

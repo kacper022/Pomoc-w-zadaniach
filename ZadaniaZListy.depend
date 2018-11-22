@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1542901771 source:f:\c\c\codeblocks - projekty\zadaniazlisty\main.c
+	<stdio.h>
+	<stdlib.h>
+	"zadanie45.h"
+
+1542817638 f:\c\c\codeblocks - projekty\zadaniazlisty\zadanie42.h
+
+1542817898 f:\c\c\codeblocks - projekty\zadaniazlisty\zadanie42.c
+	<stdio.h>
+	<stdlib.h>
+	"zadanie42.h"
+
+1542825633 source:f:\c\c\codeblocks - projekty\zadaniazlisty\zadanie43.c
+	<stdio.h>
+	<stdlib.h>
+	"zadanie43.h"
+
+1542817625 f:\c\c\codeblocks - projekty\zadaniazlisty\zadanie43.h
+
+1542818195 f:\c\c\codeblocks - projekty\zadaniazlisty\zadanie43.c
+	<stdio.h>
+	<stdlib.h>
+	"zadanie43.h"
+
+1542902085 f:\c\c\codeblocks - projekty\zadaniazlisty\zadanie45.h
+
+1542901974 source:f:\c\c\codeblocks - projekty\zadaniazlisty\zadanie45.c
+	<stdio.h>
+	<stdlib.h>
+	"zadanie45.h"
+	<conio.h>
+

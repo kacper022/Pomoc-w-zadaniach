@@ -61,6 +61,14 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="zadanie62.h" />
+		<Unit filename="zadanie71.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zadanie71.h" />
+		<Unit filename="zadanie72.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zadanie72.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

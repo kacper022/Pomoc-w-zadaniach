@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "zadanie62.h"
+#include "zadanie72.h"
 
 int main(void)
 {
-    zadanie622();
+    zadanie722();
     return 0;
 }
